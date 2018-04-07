@@ -5,8 +5,8 @@
 	id="WebApp_ID" version="3.0">
 	<display-name>shop-manager</display-name>
 	<welcome-file-list>
-		<welcome-file>index.html</welcome-file>
-		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>in111dex.html</welcome-file>
+		<welcome-file>in1111dex.jsp</welcome-file>
 	</welcome-file-list>
 	<!-- 加载spring容器 -->
 	<context-param>
