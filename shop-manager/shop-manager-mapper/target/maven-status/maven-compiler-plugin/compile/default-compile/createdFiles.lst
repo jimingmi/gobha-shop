@@ -1,0 +1,11 @@
+com\gobha\mapper\TbItemDescMapper.class
+com\gobha\mapper\TbItemMapper.class
+com\gobha\mapper\TbItemCatMapper.class
+com\gobha\mapper\TbItemParamItemMapper.class
+com\gobha\mapper\TbOrderItemMapper.class
+com\gobha\mapper\TbOrderMapper.class
+com\gobha\mapper\TbContentMapper.class
+com\gobha\mapper\TbItemParamMapper.class
+com\gobha\mapper\TbUserMapper.class
+com\gobha\mapper\TbOrderShippingMapper.class
+com\gobha\mapper\TbContentCategoryMapper.class
