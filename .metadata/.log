@@ -8214,3 +8214,120 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
 	... 29 more
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.136
+!MESSAGE properties loading for project 'shop-manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.148
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.165
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.182
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.200
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.218
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.236
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.253
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.265
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.283
+!MESSAGE properties loading for project 'shop-manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.299
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:27.311
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.371
+!MESSAGE properties loading for project 'shop-manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.382
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.389
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.401
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.407
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.414
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.423
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.443
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.449
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.455
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.461
+!MESSAGE properties loading for project 'shop-manager-mapper'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:28.468
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.295
+!MESSAGE properties loading for project 'shop-manager'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.309
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.318
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.325
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.334
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.343
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.350
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.358
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.367
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.375
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.385
+!MESSAGE loading file 'logging.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.393
+!MESSAGE properties loading for project 'shop-manager-web'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.406
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.414
+!MESSAGE loading file 'pom.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2018-04-13 20:42:31.423
+!MESSAGE loading file 'logging.properties'
