@@ -62,3 +62,8 @@
 0:0:0:0:0:0:0:1 - - [18/Apr/2018:23:26:51 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/filesave.png HTTP/1.1" 304 - http-bio-8090-exec-8 2
 0:0:0:0:0:0:0:1 - - [18/Apr/2018:23:26:51 +0800] "POST /item/cat/list HTTP/1.1" 200 977 http-bio-8090-exec-8 9
 0:0:0:0:0:0:0:1 - - [18/Apr/2018:23:27:04 +0800] "POST /item/cat/list HTTP/1.1" 200 364 http-bio-8090-exec-8 5
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:23:34:26 +0800] "GET /content-category?_=1524065206884 HTTP/1.1" 200 2342 http-bio-8090-exec-3 176
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:23:34:26 +0800] "GET /content/category/list HTTP/1.1" 404 949 http-bio-8090-exec-3 2
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:23:34:26 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/edit_add.png HTTP/1.1" 200 1088 http-bio-8090-exec-3 5
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:23:34:26 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/edit_remove.png HTTP/1.1" 200 625 http-bio-8090-exec-2 7
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:23:34:26 +0800] "GET /content/category/list HTTP/1.1" 404 949 http-bio-8090-exec-2 1
