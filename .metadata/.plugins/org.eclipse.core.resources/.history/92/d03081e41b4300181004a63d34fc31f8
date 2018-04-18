@@ -1,0 +1,15 @@
+package com.gobha.service;
+
+import java.util.List;
+
+import com.gobha.common.model.EUDataGridResult;
+import com.gobha.model.TbItem;
+import com.gobha.model.TbItemCat;
+
+public interface ItemService {
+
+	TbItem getItemById(Long itemId);
+
+	EUDataGridResult getItemList(int page, int rows);
+
+}

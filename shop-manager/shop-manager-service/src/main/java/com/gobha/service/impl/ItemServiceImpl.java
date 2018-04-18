@@ -33,6 +33,7 @@ public class ItemServiceImpl implements ItemService {
 	@Override
 	public TbItem getItemById(Long itemId) {
 		TbItemExample example = new TbItemExample();
+		// 设置查询条件
 		Criteria criteria = example.createCriteria();
 		criteria.andIdEqualTo(itemId);
 		List<TbItem> list = tbItemMapper.selectByExample(example);
@@ -48,15 +49,14 @@ public class ItemServiceImpl implements ItemService {
 	 */
 	@Override
 	public EUDataGridResult getItemList(int page, int rows) {
-		//查询商品列表
 		TbItemExample example = new TbItemExample();
-		//分页处理
+		// 分页处理
 		PageHelper.startPage(page, rows);
 		List<TbItem> list = tbItemMapper.selectByExample(example);
-		//创建一个返回值对象
+		// 创建一个返回值对象
 		EUDataGridResult result = new EUDataGridResult();
 		result.setRows(list);
-		//取记录总条数
+		// 取记录总条数
 		PageInfo<TbItem> pageInfo = new PageInfo<>(list);
 		result.setTotal(pageInfo.getTotal());
 		return result;

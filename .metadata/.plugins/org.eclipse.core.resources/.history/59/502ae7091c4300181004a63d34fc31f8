@@ -1,0 +1,16 @@
+package com.gobha.service.impl;
+
+import java.util.List;
+
+import com.gobha.common.model.EUTreeNode;
+import com.gobha.service.ItemCatService;
+
+public class ItemCatServiceImpl implements ItemCatService {
+
+	@Override
+	public List<EUTreeNode> getCatList(long parentId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
