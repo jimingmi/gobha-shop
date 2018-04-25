@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.gobha.mapper.TbItemCatMapper"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="com.gobha.model.TbItemCatExample"/>
+<fullyQualifiedTypeName name="com.gobha.model.TbItemCatExample.Criteria"/>
+<fullyQualifiedTypeName name="com.gobha.model.TbItemCat"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

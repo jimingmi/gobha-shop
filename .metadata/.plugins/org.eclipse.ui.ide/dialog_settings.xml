@@ -3,6 +3,18 @@
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
 		<item value="C:\Users\jimin\Desktop\workspace\shop"/>
 	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\jimin\Desktop\文件\大型分布式项目电商\02.第二天（框架整合，后台系统搭建）\01.参考资料\逆向工程\generatorSqlmapCustom"/>
+			<item value="C:\Users\jimin\Desktop\文件\大型分布式项目电商\02.第二天（框架整合，后台系统搭建）\01.参考资料\pagehelper"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
 	<section name="ChooseWorkspaceDialogSettings">
 		<item value="920" key="DIALOG_X_ORIGIN"/>
 		<item value="354" key="DIALOG_Y_ORIGIN"/>
