@@ -1,9 +1,0 @@
-package com.gobha.service;
-
-import java.util.List;
-
-public interface ItemCatService {
-	
-	List<EUTreeNode> getCatList(long parentId);
-	
-}
