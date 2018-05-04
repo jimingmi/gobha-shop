@@ -1,0 +1,22 @@
+package com.gobha.test;
+
+import org.apache.commons.net.ftp.FTPClient;
+
+public class FTPTest {
+
+	public static void main(String[] args) {
+
+	}
+
+	public void testFTPClient() throws Exception{
+		// 创建一个FTPClient对象
+		FTPClient ftpClient = new FTPClient();
+		// 创建FTP连接
+		ftpClient.connect("192.168.25.133", 21);
+		// 登录FTP服务器，使用用户名密码
+		// 上传文件
+
+		// 关闭连接
+	}
+
+}

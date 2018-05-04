@@ -1,0 +1,18 @@
+package com.gobha.test;
+
+public class FTPTest {
+
+	public static void main(String[] args) {
+
+	}
+
+	public void testFTPClient() {
+		// 创建一个FTPClient对象
+		// 创建FTP连接
+		// 登录FTP服务器，使用用户名密码
+		// 上传文件
+
+		// 关闭连接
+	}
+
+}
