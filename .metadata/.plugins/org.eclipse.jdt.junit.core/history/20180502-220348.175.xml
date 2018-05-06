@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="FTPTest" project="shop-manager-web" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.gobha.test.FTPTest" time="9.92">
-    <testcase name="testFTPClient" classname="com.gobha.test.FTPTest" time="9.92"/>
-  </testsuite>
-</testrun>

@@ -1,4 +1,4 @@
 com\gobha\controller\PageController.class
+com\gobha\controller\PictureController.class
 com\gobha\controller\ItemCatController.class
 com\gobha\controller\ItemController.class
-com\gobha\util\SYSTEMFLAG.class

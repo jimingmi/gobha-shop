@@ -1,0 +1,14 @@
+package com.gobha.controller;
+
+import org.springframework.stereotype.Controller;
+
+/**
+ * 图片上传Controller
+ * @author gobhazeng
+ *
+ * @date 2018年5月6日 下午4:31:31
+ */
+@Controller
+public class FileController {
+
+}

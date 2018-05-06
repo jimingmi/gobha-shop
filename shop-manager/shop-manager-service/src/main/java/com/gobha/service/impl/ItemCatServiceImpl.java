@@ -13,12 +13,22 @@ import com.gobha.model.TbItemCatExample;
 import com.gobha.model.TbItemCatExample.Criteria;
 import com.gobha.service.ItemCatService;
 
+/**
+ * 商品分类管理Service
+ * 
+ * @author gobhazeng
+ *
+ * @date 2018年5月6日 下午3:57:42
+ */
 @Service
 public class ItemCatServiceImpl implements ItemCatService {
 
 	@Autowired
 	private TbItemCatMapper itemCatMapper;
 
+	/**
+	 * 获取商品节点列表
+	 */
 	@Override
 	public List<EUTreeNode> getCatList(long parentId) {
 

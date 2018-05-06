@@ -1,0 +1,6 @@
+#FTP\u670d\u52a1\u5668\u76f8\u5173\u914d\u7f6e
+#FTP\u670d\u52a1\u5668IP
+ftp.address=192.168.186.130
+ftp.port=21
+ftp.username=ftpuser
+ftp.password=123456a

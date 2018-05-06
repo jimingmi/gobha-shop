@@ -1,0 +1,10 @@
+cd C:\Users\jimin\Desktop\workspace\shop\run
+call common.bat
+cd C:\Users\jimin\Desktop\workspace\shop\run
+call mapper.bat
+cd C:\Users\jimin\Desktop\workspace\shop\run
+call model.bat
+cd C:\Users\jimin\Desktop\workspace\shop\run
+call service.bat
+echo Success
+cd C:\Users\jimin\Desktop\workspace\shop
