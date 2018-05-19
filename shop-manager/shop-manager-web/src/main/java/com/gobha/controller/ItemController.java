@@ -16,40 +16,39 @@ import com.gobha.service.ItemService;
  * 商品管理Controller
  * 
  * @author gobhazeng
- *
  * @date 2018年4月7日 下午4:54:36
  */
 @Controller
 public class ItemController {
 
-	@Autowired
-	private ItemService itemService;
+    @Autowired
+    private ItemService itemService;
 
-	/**
-	 * 根据商品id获取商品详情
-	 * 
-	 * @param itemId
-	 * @return
-	 */
-	@RequestMapping(value = "/item/{itemId}", method = RequestMethod.GET)
-	@ResponseBody
-	public TbItem getItemById(@PathVariable Long itemId) {
-		TbItem tbItem = itemService.getItemById(itemId);
-		return tbItem;
-	}
+    /**
+     * 根据商品id获取商品详情
+     * 
+     * @param itemId
+     * @return
+     */
+    @RequestMapping(value = "/item/{itemId}", method = RequestMethod.GET)
+    @ResponseBody
+    public TbItem getItemById(@PathVariable Long itemId) {
+        TbItem tbItem = itemService.getItemById(itemId);
+        return tbItem;
+    }
 
-	/**
-	 * 获取商品详情页 支持分页
-	 * 
-	 * @param page
-	 * @param rows
-	 * @return
-	 */
-	@RequestMapping(value = "/item/list", method = RequestMethod.GET)
-	@ResponseBody
-	public EUDataGridResult getItemList(@RequestParam Integer page, @RequestParam Integer rows) {
-		EUDataGridResult result = itemService.getItemList(page, rows);
-		return result;
-	}
+    /**
+     * 获取商品详情页 支持分页
+     * 
+     * @param page
+     * @param rows
+     * @return
+     */
+    @RequestMapping(value = "/item/list", method = RequestMethod.GET)
+    @ResponseBody
+    public EUDataGridResult getItemList(@RequestParam Integer page, @RequestParam Integer rows) {
+        EUDataGridResult result = itemService.getItemList(page, rows);
+        return result;
+    }
 
 }

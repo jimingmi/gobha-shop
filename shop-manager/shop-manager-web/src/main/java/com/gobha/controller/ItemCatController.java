@@ -15,26 +15,26 @@ import com.gobha.service.ItemCatService;
  * 商品分类管理controller
  * 
  * @author gobhazeng
- *
  * @date 2018年4月18日 下午11:23:31
  */
 @Controller
 @RequestMapping("/item/cat")
 public class ItemCatController {
 
-	@Autowired
-	private ItemCatService itemCatService;
+    @Autowired
+    private ItemCatService itemCatService;
 
-	/**
-	 * 获取商品节点列表
-	 * @param parentId
-	 * @return
-	 */
-	@RequestMapping("/list")
-	@ResponseBody
-	private List<EUTreeNode> getCatList(@RequestParam(value = "id", defaultValue = "0") Long parentId) {
-		List<EUTreeNode> list = itemCatService.getCatList(parentId);
-		return list;
-	}
+    /**
+     * 获取商品节点列表
+     * 
+     * @param parentId
+     * @return
+     */
+    @RequestMapping("/list")
+    @ResponseBody
+    private List<EUTreeNode> getCatList(@RequestParam(value = "id", defaultValue = "0") Long parentId) {
+        List<EUTreeNode> list = itemCatService.getCatList(parentId);
+        return list;
+    }
 
 }
